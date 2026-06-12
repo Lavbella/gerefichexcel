@@ -1,0 +1,38 @@
+[
+    {
+        "logic": "E (AND)",
+        "column": "Sigla",
+        "condition": "Entre (Intervalo)",
+        "value": "120000;200000"
+    },
+    {
+        "logic": "OU (OR)",
+        "column": "Sigla",
+        "condition": "Entre (Intervalo)",
+        "value": "400000;405000"
+    },
+    {
+        "logic": "OU (OR)",
+        "column": "Sigla",
+        "condition": "Igual a",
+        "value": "100377"
+    },
+    {
+        "logic": "OU (OR)",
+        "column": "Sigla",
+        "condition": "Entre (Intervalo)",
+        "value": "800000;800010"
+    },
+    {
+        "logic": "OU (OR)",
+        "column": "Sigla",
+        "condition": "Igual a",
+        "value": "807413"
+    },
+    {
+        "logic": "OU (OR)",
+        "column": "Sigla",
+        "condition": "Igual a",
+        "value": "806370"
+    }
+]
